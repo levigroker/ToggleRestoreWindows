@@ -1,0 +1,22 @@
+Toggle Restore Windows
+
+A manually activated AppleScript to toggle the state of the current
+application's application window saving behavior in Mac OS X, Lion.
+By Levi Brown <mailto:levi@grokers.net>
+Version 1.0
+August 24, 2011
+
+The intention is for this script to be accessed from the Script Menu and
+acts on the currently active application. Running the script will toggle
+the current window restore state and display a message telling the user
+what has happened.  For more information about the Script Menu please
+visit: http://www.apple.com/applescript/scriptmenu/
+
+* This script has only been tested on Mac OS X 10.7.1 under US English
+and may contain i18n issues which are not accounted for.
+
+Props to: http://blog.stuart.shelton.me/archives/839
+
+Please feel free to contact me with improvements and feedback.
+
+Release History: 1.0   August 24, 2011: Initial release.
